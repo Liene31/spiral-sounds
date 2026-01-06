@@ -1,0 +1,24 @@
+{
+  "name": "spiral-sounds",
+  "version": "1.0.0",
+  "description": "Online classic vinyl store",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch --watch-preserve-output server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Liene31/spiral-sounds.git"
+  },
+  "author": "Liene",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Liene31/spiral-sounds/issues"
+  },
+  "homepage": "https://github.com/Liene31/spiral-sounds#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
