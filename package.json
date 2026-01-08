@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/Liene31/spiral-sounds#readme",
   "dependencies": {
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
   }
 }
